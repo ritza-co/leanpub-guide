@@ -16,7 +16,7 @@ More specifically we will:
 
 Being in the business of making things easy, Leanpub has made the sign-up process painless. You can start creating your first book right away which will create an account automatically, or if you are used to creating an account first before doing anything else, Leanpub has thought of you too and included a straight forward sign up page [here](https:/Leanpub.com/sign_up)
 
-![**Image: 1** *Leanpub sign up page* ](./resources/01-01-sign-up.png)
+![**Image: 1** *Leanpub sign up page* ](https://i.ritzastatic.com/leanpub-guide/01-leanpub-getting-started/01-01-sign-up.png)
 
 We will go through the process of creating a book while signing up automatically. Please note that both ways to sign up are similar, they only appear in different locations.
 
@@ -26,7 +26,7 @@ From here, whether you have an existing account or not we will create your first
 
 Firstly, click [here](https://leanpub.com/create/book) to open the Leanpub "Create a Book or Course" page. This should open up the following page with three sections to complete:
 
-![**Image: 2** *Leanpub create a book page* ](./resources/01-02-create-a-book.png)
+![**Image: 2** *Leanpub create a book page* ](https://i.ritzastatic.com/leanpub-guide/01-leanpub-getting-started/01-02-create-a-book.png)
 
 In the first section you can enter the following details:
 
@@ -37,24 +37,24 @@ In the first section you can enter the following details:
 5. You then have the option to choose a book theme and your options are: Business, Technical, Fiction and Custom (you need to be on a standard or pro plan to access the custom theme). You can choose any theme you like, the main difference is that of the page sizing and layout. You can read more on the differences [here](http://help.leanpub.com/en/articles/3691789-what-are-the-settings-for-each-of-the-different-book-themes#:~:text=Leanpub%20books%20currently%20have%20four,for%20books%20in%20these%20genres.).
 6. Here you can choose where you want to write your book. With the free plan, you can choose between the Leanpub in-browser plain text editor or you can upload a prepopulated ebook for distribution. The third option, only available on a standard or pro plan, allows you to sync your book content from either Dropbox, GitHub, or Bitbucket. I will be doing a separate guide on how to set up a sync between Leanpub and GitHub at a later stage. For now, we will choose the "In your web browser" option to conclude the first section.
 
-![**Image: 3** *Create a Book: Section 1* ](./resources/01-03-signup-sect1.png)
+![**Image: 3** *Create a Book: Section 1* ](https://i.ritzastatic.com/leanpub-guide/01-leanpub-getting-started/01-03-signup-sect1.png)
 
 Secondly, you need to choose your plan. In this case, we will choose the free plan that allows us to write and generate up to 100 ebooks in PDF, EPUB, and MOBI formats, then publish and sell them on Leanpub. Here you can also see what the other two plans offer, should you need to make use of the other services, choose the appropriate plan here.
 
-![**Image: 4** *Create a Book: Section 2* ](./resources/01-04-signup-sect2.png)
+![**Image: 4** *Create a Book: Section 2* ](https://i.ritzastatic.com/leanpub-guide/01-leanpub-getting-started/01-04-signup-sect2.png)
 
 Lastly, enter your personal details for the automatic account creation. Note, if you already have an account you can simply click the sign-in button, or if you are already signed in, it will show your signed-in account and you can continue.
 
-![**Image: 5** *Create a Book: Section 3* ](resources/01-05-signup-sect3.png)
+![**Image: 5** *Create a Book: Section 3* ](https://i.ritzastatic.com/leanpub-guide/01-leanpub-getting-started/01-05-signup-sect3.png)
 
 Once you have completed all the fields, accept the terms and conditions, and click on the "sign up" or "add to plan" button. This will create the base of your ebook and open up a "getting started" page that has a lot more information on getting started and using the Markdown language.
 
-![**Image: 6** *Getting started page* ](./resources/01-06-getting-started-page.png)
+![**Image: 6** *Getting started page* ](https://i.ritzastatic.com/leanpub-guide/01-leanpub-getting-started/01-06-getting-started-page.png)
 
 From the getting started page, you can open up a quick getting started tutorial on how to use the in-browser plain text editor or you can click on the very first link on the page that will take you straight to the in-browser text editor where you can start writing.
 
 The first time you open up your book in the editor, you will find three example chapters that will help you get started on writing your book as soon as possible. 
 
-![**Image: 7** *Online editor: First open* ](./resources/01-07-online-editor-first.png)
+![**Image: 7** *Online editor: First open* ](https://i.ritzastatic.com/leanpub-guide/01-leanpub-getting-started/01-07-online-editor-first.png)
 
 You have now set up your Leanpub account and created your first ebook. From here you can start adding content to your book using what you have learned so far and by making use of the Leanpub tutorials or you can follow along with the next section of this tutorial: [Understanding Markdown and the Leanpub in-browser plain text editor]()
