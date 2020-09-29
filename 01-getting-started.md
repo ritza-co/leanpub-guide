@@ -57,4 +57,4 @@ The first time you open up your book in the editor, you will find three example 
 
 ![**Image: 7** *Online editor: First open* ](https://i.ritzastatic.com/leanpub-guide/01-leanpub-getting-started/01-07-online-editor-first.png)
 
-You have now set up your Leanpub account and created your first ebook. For now you can start adding content to your book using what you have learned and by making use of the Leanpub [manual](https:/Leanpub.com/manual/read). In the next part of this guide I will show you how to write in the In-Browser Editor using Markown, and how to generate your first preview.
+You have now set up your Leanpub account and created your first ebook. In the next part of this guide we will learn about Markdown and write your first chapter using the In-Browser Editor.
