@@ -1,6 +1,6 @@
 ## Creating a Book Cover and Publishing
 
-In this section we will be designing the front cover of your book, upload it to Leanpub and then publish your book.
+In this section, we will be designing the front cover of your book, upload it to Leanpub and then publish your book.
 
 More specifically we will:
 
@@ -9,7 +9,7 @@ More specifically we will:
 3. Upload your cover to Leanpub
 4. Publish your ebook on Leanpub
 
-#### Creating a Canva account
+### Creating a Canva account
 
 Let get started by firstly signing up for a free Canva account.
 
@@ -29,7 +29,7 @@ You should now be directed to the Canva design platform, there will be a 4 step 
 
 From here you have the option to design your cover from scratch, however, for this guide we will choose one of the many existing templates.
 
-In the searchbox, top left, type in a phrase that matches what your book is about. From the templates that come up below, choose one that you like and select it. The template will be applied and you can then start editing the template to fit your design needs.
+In the search box, top left, type in a phrase that matches what your book is about. From the templates that come up below, choose one that you like and select it. The template will be applied and you can then start editing the template to fit your design needs.
 
 ![**Image: 5** *Choose Template*](https://i.ritzastatic.com/leanpub-guide/03-book-cover-publish/03-05-cover-template.png)
 
@@ -43,7 +43,7 @@ When your download is complete, go back to the Leanpub platform and from the "Bo
 
 ![**Image: 7** *Upload Book Cover Page*](https://i.ritzastatic.com/leanpub-guide/03-book-cover-publish/03-07-cover-upload-page.png)
 
-Scroll down to below the current default cover page and click on the "Choose File" button. From the file browser pop up, navigate to the cover that you downloaded from Canva, select it and click "Open". Now click on the "Update Book Cover" button and your cover will start uploading.
+Scroll down to below the current default cover page and click on the "Choose File" button. From the file browser pop up, navigate to the cover that you downloaded from Canva, select it, and click "Open". Now click on the "Update Book Cover" button and your cover will start uploading.
 
 ![**Image: 8** *Upload Book Cover*](https://i.ritzastatic.com/leanpub-guide/03-book-cover-publish/03-08-uplaod-cover.png)
 
@@ -55,8 +55,77 @@ Now that your book has content and a beautiful cover image we can proceed to pub
 
 ### Publishing your book on the Leanpub Book Store
 
+Before you can publish your book on the Leanpub store, there are a few last steps we need to complete that will help with the marketing of your book.
+
+The steps we will look at are:
+
+1. Setting the price.
+2. Completing the "About the Book" section and writing some teaser text.
+3. Adding some categories.
+
+#### Set the Price 
+
+Leanpub uses a variable pricing model that allows authors to set a minimum price and a suggested one, this encourages the readers to pay what you believe your book is worth while giving them the option to choose what they can afford.
+
+By default, your book has a minimum price of US$4.99 and suggested of US$9.99.
+
+Open the "Pricing" page by navigating to "Store" under your book in the "Books" menu as seen below:
+
+![Price menu](03-13-lp-price-menu.)
+
+Here you can enter the minimum book price and a suggested book price of your choice, then scroll down to click on the "Update Pricing" button. You should see a confirmation message saying "Pricing updated". *Note: You can also opt to make your book free, just enter "0" in the minimum and suggested fields.*
+
+![Price Page]()
+
+#### Complete the "About the Book" Section
+
+Up next, you you can navigate to the "About the Book" section under your book, then "Book Web Page" in the "Books" menu as seen below:
+
+![About menu]()
+
+On the "About the Book" page you can write a short "teaser text" and complete the "About the Book" section then click on the "Update Book' button to save your changes.
+
+![About the Book Page]()
+
+#### Adding Categories
+
+Lastly we will add some categories so that your readers can find your book easily.
+
+Navigate to the "Categories" page under your book, "Book Info" then categories from the "Books" menu as seen below:
+
+![Categories Menu]()
+
+On the categories page, click on the "Add Category" button, then select an appropriate category from the drop down list and click on "Update Book". You can repeat these steps to add multiple categories. The categories chosen will then be listed as seen below: 
+
+![Categories Page]()
+
+#### Publish Your Book
+
+Congratulations, you are now ready to publish your Technical Book for the world to see. 
+
 From the book menu at the top, navigate to your book, select "Preview or Publish" and click on "Publish New Version". 
 
 ![**Image: 10** *Publish Menu*](https://i.ritzastatic.com/leanpub-guide/03-book-cover-publish/03-10-Publish-Menu.png)
 
-On the Publish page you will see a checklist of steps
+On the Publish page, you will see a checklist of steps that you can complete before publishing your book. We have covered the more important steps above but feel free to complete the others as they improve the marketing of your book on the Leanpub store.
+
+![**Image: 11** *Publish Page*]()
+
+Scroll down to the "Release Notes" section, add your release notes and click in the "Publish Book" button. *Note: the release notes are added to the email that Leanpub sends out to your prospective readers*
+
+![Release notes & Publish]()
+
+Once your new book is generated, the following page will appear where you can download your new book in three different formats.
+
+![Published]()
+
+### Preview your Book in the Leanpub Store
+
+To see what your books page looks like, you can navigate to your "Dashboard" in the "Books" menu as seen below
+
+![Dashboard Menu]()
+
+Click on on your book to open the sales page.
+
+![Sales Page]()
+
