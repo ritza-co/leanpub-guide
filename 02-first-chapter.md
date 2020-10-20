@@ -1,4 +1,4 @@
-## Part 2 - Writing your first chapter with Markdown
+# Part 2 - Writing your first chapter with Markdown
 
 Now that you are all set up on Leanpub and your book is created, you can start writing your first chapter.
 
@@ -11,11 +11,9 @@ More specifically you will:
 3. Write your first chapter.
 4. Generate your first preview.
 
-Continuing where we left off in part one after you have clicked on the first "start writing" link on the "getting started" page, you should have a book with three introductory chapters in front of you. 
+## Opening the Leanpub In-Browser Editor
 
-### Open your book from the Leanpub menu
-
-If you do not have the editor open you can find your book and open it from the Leanpub menu
+In your browser, go to leanpub.com and sign in with your account details.
 
 From the home page of Leanpub, you can select the first dropdown menu in the top left corner called "Store" then select “Author”. 
 
@@ -25,91 +23,82 @@ This will open up the author’s dashboard. From the second menu called "Metrics
 
 ![**Image 2:** *Leanpub Menu - Author*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-02-menu-arrow-write.png)
 
-### The Leanpub In-Browser Editor
+## The Leanpub In-Browser Editor
 
 Now that you have the editor open, you will find the left pane contains two tabs: Manuscript (where your words live / chapters are stored) and Resources (where your media can be stored and referenced). For now, make sure that "Manuscript" is selected so that the three chapters are listed.
 
-To the right in the top bar, you have some more tabs/options that we will touch on as we progress. In the settings tab, you can customize a few things like font size and switch to dark mode but let’s not get distracted and rather start getting words down in your first chapter.
-
 ![**Image 3:** *First time opening the editor*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-03-online-editor-first.png)
 
-### Create your First Chapter
+## Create your First Chapter
 
-Firstly, to create your new chapter, click on the plus icon in the left pane under the existing chapters, enter a name for the chapter, and click on "OK". This will create a chapter and add it under the existing chapters.
+To create your new chapter, click on the plus icon in the left pane under the existing chapters, enter a name for the chapter, and click on "OK". This will create a chapter and add it under the existing chapters.
 
 ![**Image 4:** *Adding a Chapter*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-04-new-chapter.png)
 
-You can now delete the three default chapters. To do this, hover your mouse over the chapter name you want to delete and click on the gear icon that appears to the right. Click on delete and confirm the deletion. *Note: You can reorder your chapters by clicking and dragging the names, and you must have at least one chapter in your manuscript.*
+Delete the three default chapters. To do this, hover your mouse over the chapter name you want to delete and click on the gear icon that appears to the right. Click on delete and confirm the deletion. *Note: You can reorder your chapters by clicking and dragging the names, and you must have at least one chapter in your manuscript.*
 
 ![**Image 5:** *Deleting a Chapter*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-05-delete-chapter.png)
 
-Select your chapter and click in the blank page to the right, as you will see as soon as you start typing, all the clutter on the page fades away. This is a fancy feature called "focus" mode that aims to keep the writer from being distracted. From here we will add some content to your book using Markdown.
+Select your chapter and click on the blank page to the right, as you will see as soon as you start typing, all the clutter on the page fades away. This is a fancy feature called "focus" mode that aims to keep the writer from being distracted. From here you will add some content to your book using Markdown.
 
-### What is Markdown
+## What is Markdown
 
-Markdown is a lightweight markup language that is used to easily format plain-text documents. Leanpub uses a modified version of Markdown to format your ebook. We will only cover the basics of the Leanpub Flavored Markdown (LFM) while writing the first chapter of your book, however, you are welcome to check out the [LFM Manual](https://leanpub.com/lfm/read) for a more detailed guide.
+Markdown is a lightweight markup language that is used to easily format plain-text documents. Leanpub uses a modified version of Markdown to format your ebook. In this guide I will introduce you to the basics of the Leanpub Flavored Markdown (LFM) while writing the first chapter of your book, however, you are welcome to check out the [LFM Manual](https://leanpub.com/lfm/read) for a more detailed guide.
 
-### Start Writing
+## Start Writing
 
 Give your chapter a heading. Note the preceding pound sign in the below example, this tags the following words as a heading(H1) and will format the text accordingly when generating the ebook.
 
 ![**Image 6:** *Heading*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-06-Heading-1.png)
 
-Headings are used by LFM to structure your ebook, a single `#` (H1) creates a new chapter, sections are started with `##` (H2) and sub-sections with `###` (H3), you can carry on to create sub-sub-sections following the same pattern. Parts of your book are identified with '-#', ie `-# Part 1`  *Note: there must always be a space between the ‘#’ and the first letter*
+Headings are used by LFM to structure your ebook, a single `#` (H1) creates a new chapter, sections are started with `##` (H2) and sub-sections with `###` (H3), you can carry on to create sub-sub-sections following the same pattern.*Note: there must always be a space between the ‘#’ and the first letter*
 
 ```
--# Part 1
 # Chapter 1
 ## Section 1.1
 ### Sub-section 1.1.1
 ```
 
-Let’s add some intro paragraphs and link out to the Leanpub website, the syntax used to create links within your text is `[text](http://theURL.link)`. Leanpub will create footnotes of all your links at the bottom of the page they are on.
+Now add some introductory paragraphs. In my example, I link out to the Leanpub website. The syntax used to create links within your text is `[text](http://theURL.link)`. Leanpub will create footnotes of all your links at the bottom of the page.
 
 ![**Image 7:** *First Paragraph*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-07-first-paragraph.png)
 
-With the introduction done, let's create the first section and include a list. Bulleted lists are created with `- Item` and numbered lists `1. Item` as seen in the image below:
+With the introduction done, create the first section of your book. Here I will include a list. Bulleted lists are created with `- Item` and numbered lists `1. Item` as seen in the image below:
 
 ![**Image 8:** *Numbered List*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-08-numbered-list.png)
 
-Now we can start writing the actual content, lets do this by adding some sub-sections and include some images. Images are added with `![Image Caption](http://theImageURL.png)`, alternatively, to use local images, you can upload them under the "Resources" tab and change the link to `![Image Caption](resources/imageName.png)`
+Now start writing the content of your book. You can do this by adding some sub-sections and writing your ideas within them. 
 
-![**Image 9:** *Add Image*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-09-add-image.png)
+![**Image 9:** *Sub Sections*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-09-subsections.png)
 
-Note how the image captions contain asterisks, these are for emphasis, below are some more ways you can use to style your text:
+To include images upload them under the "Resources" tab and link to them with the following syntax `![Image Caption](imageName.png)`.
 
-```
-*Italic*
-**Bold**
-***Italic-Bold***
-____Underline____ (4x Underscore each side)
-____**Combine** them in a ***sentence*** like *this*____
-```
-*Italic*
+To upload your images, click on the "Resources" tab in the top left to open the resources page. From here, click on the plus icon, click choose file, select the image you would like to upload from the file explorer then click on the "Add button" to upload. *Tip: You can click on the copy icon next to the name of your uploaded image and it will automatically add the correct link to your clipboard*
 
-**Bold**
+![**Image 10:** *Add Images*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-10-upload-image.png)
 
-***Italic-Bold***
+![**Image 11:** *Add Image links*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-11-image-links.png)
 
-____Underline____ 
+Note how the image captions in my example above contain asterisks, these are for emphasis. One asterisk on each side of your word or sentence makes it *italic* and two asterisks for **bold**. ie: 
 
-____**Combine** them in a ***sentence*** like *this*____
+`*Italic*` = *Italic*
 
-### Preview your book
+`**Bold**` = **Bold**
 
-You now know enough to carry on writing and finishing your first technical book. But before you continue writing, let’s generate a preview of what your book currently looks like to see how all the above content populates.
+## Preview your book
+
+You now know enough to carry on writing and finishing your first technical book. But before you continue writing, let me show you how to generate a preview of what your book currently looks like.
 
 In the top bar above your document, select "Preview". You will then be directed to the Preview page where you can click on "Create Preview".
 
-![**Image 10:** *Create Preview*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-10-preview-page.png)
+![**Image 12:** *Create Preview*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-12-preview-page.png)
 
 Leanpub will then generate your ebook in three different formats, showing a progress bar at the top of the page. You can also close the page as they will send you an email once your ebook generation is complete.
 
-![**Image 11:** *Create Preview*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-11-generating-ebook.png)
+![**Image 13:** *Generate Ebook*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-13-generating-ebook.png)
 
-When complete, links to download your book in PDF, EPUB, or MOBI formats will appear. You can click on the first (PDF) link to download and preview your ebook.
+When complete, links to download your book in PDF, EPUB, or MOBI formats will appear. Click on the first (PDF) link to download and preview your ebook in PDF format.
 
-![**Image 12:** *Create Preview*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-12-download-preview.png
-)
+![**Image 14:** *Download Preview*](https://i.ritzastatic.com/leanpub-guide/02-first-chapter-markdown/02-14-download-preview.png)
 
-In the next part of this guide, we will complete your book with an eye-catching cover using Canva and publish your book on the Leanpub store.
+In the next part of this guide, you will design and attach a book cover using Canva, and publish your book on the Leanpub store.
